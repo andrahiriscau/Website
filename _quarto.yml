@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Andra Hiriscau"
+  navbar:
+    background: primary
+    search: true
+    right:
+      - href: index.qmd
+        text: Home
+      - cv/cv.qmd  
+      - research/research.qmd
+      - teaching/teaching.qmd
+      - icon: github
+        href: https://github.com/andrahiriscau
+      - icon: twitter
+        href: https://twitter.com/AndraHiriscau
+      - icon: linkedin
+        href: https://www.linkedin.com/in/andra-hiriscau-a21556a8/
+#  google-analytics: "G-G6PQFW2XSK"
+
+# theme: cosmo      
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+

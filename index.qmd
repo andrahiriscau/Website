@@ -1,0 +1,40 @@
+---
+title: "Andra Hiriscau"
+image: headshot.jpeg
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/AndraHiriscau
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/andra-hiriscau-a21556a8/
+    - icon: github
+      text: Github
+      href: https://github.com/andrahiriscau
+---
+
+::: {#hero-heading}
+Thank you for visiting my website!
+
+I am a Visiting Assistant Professor of Economics at
+
+William & Mary in Williamsburg, Virginia.
+
+## Economics Research Fields:
+
+Primary field: Applied Microeconomics with focus on Labor and Demographic Economics
+
+Secondary field: Gender Economics.
+
+## Education:
+
+Ph.D. Economics, Florida International University, 2021
+
+M.A. Economics, Clemson University, 2014
+
+B.A. International Affairs, Babes- Bolyai University, 2010
+:::

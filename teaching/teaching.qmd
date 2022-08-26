@@ -1,0 +1,64 @@
+---
+title: "Teaching"
+#editor: visual
+---
+
+## William & Mary, 2021- present
+
+### Econometrics
+
+Textbook: [Introductory Econometrics: A Modern Approach by J. Wooldridge](https://www.cengage.com/c/introductory-econometrics-a-modern-approach-7e-wooldridge/9781337558860PF/)
+
+  - Summer 2022 (R Software)
+      - [Syllabus](syllabi/Syllabus_Econometrics_Summer_2022.pdf)
+      - [Slides in R (Github Repository)](https://github.com/andrahiriscau/Econometrics_Slides)
+      - [Project (empirical analyzes)](syllabi/Group_project.html)
+  - Fall 2021 (STATA Software)
+      - [Syllabus](syllabi/Syllabus_Econometrics_Fall_2021.pdf) 
+      - [Project (research paper)](syllabi/Project_Econometrics_Fall_2021.pdf) 
+
+### Intermediate Microeconomics
+  
+  - Fall 2022 and Spring 2023* (4 sections) [Syllabus](syllabi/Syllabus_ECON_303_Fall_2022.pdf)
+    - Textbook: [Microeconomics by A. Goolsbee; S. Levitt; C. Syverson](https://www.macmillanlearning.com/college/us/product/Microeconomics/p/1319105564)
+  - Fall 2021 and Spring 2021 (5 sections) [Syllabus](syllabi/Syllabus_ECON_303_Fall_2022.pdf)
+    - Textbook: [Intermediate Microeconomics by Hal Varian](https://wwnorton.com/books/9780393689860)
+    
+
+### Principles of Microeconomics
+  - Spring 2023*
+  - Fall 2022 [Syllabus](syllabi/Syllabus_Principles_Micro_Fall_2022.pdf)
+    - Textbook: [Microeconomics with MyLab by G.Hubbard and A O'Brien](https://www.pearson.com/en-us/subject-catalog/p/Hubbard-My-Lab-Economics-with-Pearson-e-Text-Access-Card-for-Microeconomics-8th-Edition/P200000005936/9780135952948)
+
+
+
+
+## Florida International University, 2019- 2021
+
+### Principles of Macroeconomics
+
+  - Summer 2021 [Syllabus](syllabi/Syllabus_Princ_macro_Summer_2021.pdf)
+  - Fall 2019 [Syllabus](syllabi/Syllabus_Princi_macro_Fall_2019.pdf)   
+    - Textbook: [Macroeconomics with MyLab by G.Hubbard and A O'Brien](https://www.pearson.com/en-us/subject-catalog/p/macroeconomics/P200000005935/9780135801260)
+
+
+### Principles of Microeconomics
+
+  - Spring 2021 [Syllabus](Syllabus_Princ_micro_Spring_2021)     
+    - Textbook: [Microeconomics with MyLab by G.Hubbard and A O'Brien](https://www.pearson.com/en-us/subject-catalog/p/Hubbard-My-Lab-Economics-with-Pearson-e-Text-Access-Card-for-Microeconomics-8th-Edition/P200000005936/9780135952948)
+
+### Intermediate Macroeconomics
+
+  - Summer 2019 [Syllabus](Syllabus_Inter_macro_Summer_2019)
+    - Textbook: [Macroeconomics by G. Mankiw](https://www.macmillanlearning.com/college/us/product/Macroeconomics/p/1319263909)
+
+
+
+## Florida International University, 2016- 2021 
+
+**Teaching Assistant for: **
+
+  - Ph.D. level courses: Macroeconomics (2020), Econometrics I (2018), Microeconomics I (2017)
+ 
+
+  - Undergraduate level courses:  Intermediate Macroeconomics (2017,2019), Intermediate Microeconomics (2017, 2020), International Money (2020, 2018), *Women, Culture and Economics Development (2018)*, Topics in Theory (2018), Introduction to Econometrics (2018), Measurement Analysis (2018), Principles of Macroeconomics (2017, 2020), Principles of Microeconomics (2016), International Trade Theory and Policy (2020), Industrial Organization (2020)
