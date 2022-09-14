@@ -23,9 +23,10 @@ This study examines how paid maternity leave (ML) impacted fertility and mothers
 
 :::{.callout-note collapse="true"}
 ## Birth Order Effects on Children's Education (**Revise & Resubmit**)
-Authors: **Andra Hiriscau** and [Mihaela Pintea](https://faculty.fiu.edu/~pinteam/)
+Co- author: [Mihaela Pintea](https://faculty.fiu.edu/~pinteam/)
 
-Link
+[Link](papers/Birth_Order.pdf)
+
 
 
 This paper examines the effect of birth order on educational attainment in the United States and the underlying mechanism producing these effects. Using a family fixed effects model, we find negative birth order effects on educational outcomes. However, this effect varies depending on households' income, being the strongest for households with the highest income and diminishes as households' income decreases. In addition, we show that the timing of income across childhood is important for completed education, and the largest gap in educational attainment between siblings is between those who were born and spent their early childhood in wealthier households.
@@ -44,7 +45,7 @@ This paper examines the effect of birth order on educational attainment in the U
 :::{.callout-note collapse="true"}
 ## Where does social equity stand? An application of the portfolio management theory to analyze federal contracting decisions during emergency situations? (Abstract)
 
-Authors:[Ana-Maria Dimand](https://www.boisestate.edu/sps/ana-maria-dimand/), [Andrea Stefano Patrucco](https://business.fiu.edu/faculty/expert-guides.cfm?FlagDirectory=Display&EMP=patruccoa), [Evelyn Rodriguez-Plesa](https://www.nccu.edu/employee/erodri14) and **Andra Hiriscau**
+Co- authors: [Ana-Maria Dimand](https://www.boisestate.edu/sps/ana-maria-dimand/), [Andrea Stefano Patrucco](https://business.fiu.edu/faculty/expert-guides.cfm?FlagDirectory=Display&EMP=patruccoa), [Evelyn Rodriguez-Plesa](https://www.nccu.edu/employee/erodri14) 
 
 
 
@@ -76,7 +77,7 @@ Average marginal effects from a multinomial logistic regression with 95% confide
 
 :::{.callout-note collapse="true"}
 ## Supplier Diversity, Equity, and Inclusion in the Public Sector During Emergencies (Abstract)
-Authors: [Andrea Stefano Patrucco](https://business.fiu.edu/faculty/expert-guides.cfm?FlagDirectory=Display&EMP=patruccoa), [Sushil Gupta](https://business.fiu.edu/faculty/expert-guides.cfm?FlagDirectory=Display&EMP=guptas2) and **Andra Hiriscau**
+Co- authors: [Andrea Stefano Patrucco](https://business.fiu.edu/faculty/expert-guides.cfm?FlagDirectory=Display&EMP=patruccoa), [Sushil Gupta](https://business.fiu.edu/faculty/expert-guides.cfm?FlagDirectory=Display&EMP=guptas2) 
 
 This study aims to better understand what factors favor the successful participation of small disadvantaged (SDB) suppliers in federal contracts during disaster events when procurement procedures are relaxed and more opportunities for SDBs exist due to the availability of emergency funds. To do that, we draw on data about the U.S. Federal Government emergency contracts awarded during the major disaster over the last 18 years. We estimate a logistic regression model to understand what factors favor SDBs participation in federal procurement contracts. We notice that the ability of SDB suppliers to win a federal contract has increased over time. However, to maximize the probability of SDB suppliers winning a contract, the Federal Government should configure the bidding procedure with specific features. From a research perspective, we propose a model that includes the main variables to be considered to study SDBs participation in government contracts. From a managerial perspective, our findings are able to inform 1) federal governments about what procurement variables are more important to be considered to reach the desired DEI goals; 2) SDB suppliers about the circumstances that maximize their chances of winning a federal contract, and so on what type of procurement contracts they should focus their bidding efforts.
 
@@ -85,6 +86,7 @@ Keywords: Federal Government; procurement; equity; diversity; emergency contract
 
 
 ![](papers/federal_contract.png)
+
 Probability to award a federal contract to DBE suppliers through the different disaster events (reference event: Hurricane Katrina, 2004)
 
 :::
@@ -110,7 +112,7 @@ I analyze the effect of two maternity leave (ML) reforms on family living arrang
 :::{.callout-note collapse="true"}
 ## Admission Exams or GPA? The Effects of Admission Criteria on Student Educational Outcomes
  
-Authors: **Andra Hiriscau**, [Laëtitia Renée](https://www.laetitiarenee.com) and [Andrei Munteanu](https://www.andrei-munteanu.com)
+Co-Authors: [Laëtitia Renée](https://www.laetitiarenee.com) and [Andrei Munteanu](https://www.andrei-munteanu.com)
 
 
 :::

@@ -2,3 +2,7 @@
 title: "CV"
 editor: visual
 ---
+
+
+
+[Click here for CV](resume/Hiriscau_CV.pdf)
